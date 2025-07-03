@@ -1,0 +1,11 @@
+[project]
+name = "ghost-gear"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "adafruit-blinka==8.59.0",
+    "adafruit-circuitpython-mpr121>=2.1.24",
+    "pygame>=2.6.1",
+]
