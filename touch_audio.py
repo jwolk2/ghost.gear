@@ -4,6 +4,8 @@ import board
 import busio
 import adafruit_mpr121
 import config
+import digitalio
+import time
 
 
 class TouchAudioManager:
