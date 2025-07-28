@@ -5,7 +5,7 @@
 # 0x5d = Address pin set to SCL
 i2c_addresses = [0x5d, 0x5b, 0x5c]
 pins_per_mpr = 12
-press_threshold  = 4 # lower -> more sensitive
+press_threshold  = 5 # lower -> more sensitive
 release_threshold = 3 # lower -> more sensitive
 
 # Volume control
